@@ -74,8 +74,8 @@
         },
         {
             "id":1,
-            "name":"新浪(切片)",
-            "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/from/xlm3u8/",
+            "name":"猫眼资源",
+            "url":"https://api.maoyanapi.top/api.php/provide/vod",
             "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
             "click":true,
             "type":"xml",
@@ -92,8 +92,8 @@
         },
         {
             "id":1,
-            "name":"如意资源",
-            "url":"https://cj.rycjapi.com/api.php/provide/vod",
+            "name":"UU资源",
+            "url":"https://uuzy.me/api.php/provide/vod/",
             "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
             "click":true,
             "type":"xml",
