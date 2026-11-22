@@ -74,8 +74,8 @@
         },
         {
             "id":1,
-            "name":"猫眼资源",
-            "url":"https://api.maoyanapi.top/api.php/provide/vod",
+            "name":"虎牙采集",
+            "url":"https://www.huyaapi.com/api.php/provide/vod/",
             "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
             "click":true,
             "type":"xml",
@@ -92,8 +92,8 @@
         },
         {
             "id":1,
-            "name":"UU资源",
-            "url":"https://uuzy.me/api.php/provide/vod/",
+            "name":"量子资源",
+            "url":"https://lzizy1.com/api.php/provide/vod/",
             "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
             "click":true,
             "type":"xml",
@@ -101,8 +101,8 @@
         },
         {
             "id":1,
-            "name":"非凡(切片)",
-            "url":"http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+            "name":"火狐采集",
+            "url":"https://hhzyapi.com/api.php/provide/vod/",
             "cate":"动作片,2&&喜剧片,3&&爱情片,4&&科幻片,5&&恐怖片,6&&剧情片,7&&战争片,8&&国产剧,15&&港台剧,16&&欧美剧,18&&大陆综艺,22&&台湾综艺,24&&日韩综艺,23&&欧美综艺,25&&国产动漫,27&&日韩动漫,28",
             "click":true,
             "type":"xml",
