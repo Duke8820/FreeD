@@ -101,9 +101,9 @@
         },
         {
             "id":1,
-            "name":"火狐采集",
-            "url":"https://hhzyapi.com/api.php/provide/vod/",
-            "cate":"动作片,2&&喜剧片,3&&爱情片,4&&科幻片,5&&恐怖片,6&&剧情片,7&&战争片,8&&国产剧,15&&港台剧,16&&欧美剧,18&&大陆综艺,22&&台湾综艺,24&&日韩综艺,23&&欧美综艺,25&&国产动漫,27&&日韩动漫,28",
+            "name":"紫TV",
+            "url":"http://www.zitv.cc/api.php/provide/vod/at/xml",
+            "cate":"",
             "click":true,
             "type":"xml",
             "detailUrl":""
