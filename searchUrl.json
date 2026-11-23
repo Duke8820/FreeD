@@ -92,11 +92,11 @@
         },
         {
             "id":1,
-            "name":"量子资源",
-            "url":"https://lzizy1.com/api.php/provide/vod/",
+            "name":"新芒果资源网",
+            "url":"https://caiji.mgzyapi.com/api.php/provide/vod/at/xml/",
             "cate":"",
             "click":true,
-            "type":"json",
+            "type":"xml",
             "detailUrl":""
         },
         {
