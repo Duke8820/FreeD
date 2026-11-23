@@ -74,11 +74,11 @@
         },
         {
             "id":1,
-            "name":"虎牙采集",
-            "url":"https://www.huyaapi.com/api.php/provide/vod/",
-            "cate":"电视剧,1&&电影,2&&欧美剧,3&&香港剧,4&&韩剧,5&&内地剧,20&&大陆综艺,38&&日韩综艺,39&&古装仙侠,42&&现代都市,43",
+            "name":"西瓜资源",
+            "url":"https://caiji.xgzyapi.com/api.php/provide/vod/at/xml/",
+            "cate":"",
             "click":true,
-            "type":"json",
+            "type":"xml",
             "detailUrl":""
         },
         {
