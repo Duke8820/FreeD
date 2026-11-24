@@ -29,9 +29,9 @@
         },
         {
             "id":1,
-            "name":"八戒(切片)",
-            "url":"http://cj.bajiecaiji.com/inc/bjm3u8.php",
-            "cate":"动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,15&&美国剧,17&&日本剧,16&&内地综艺,96日韩综艺,97&&国产动漫,91&&日本动漫,92&&欧美动漫,93",
+            "name":"巨量资源",
+            "url":"https://api.juliang.live/api/provide/vod/at/xml/",
+            "cate":"",
             "click":true,
             "type":"xml",
             "detailUrl":""
